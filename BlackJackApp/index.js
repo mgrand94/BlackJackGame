@@ -71,4 +71,6 @@ function hit() {
 
 
 
-
+//TODO: 1.Create betting option...How much to bet and win lose addition or subtraction 
+//      2. User can currently hit start button as many times as desired to get new cards...fix that.
+//      3. App needs user input...currently hard coded name and chip count...lets let user enter dynamic name and chips. 
